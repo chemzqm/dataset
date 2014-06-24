@@ -1,0 +1,17 @@
+{
+  "name": "dataset",
+  "description": "fix dataset",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "dependencies": {
+    }
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "chemzqm/dataset"
+}
